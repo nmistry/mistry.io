@@ -1,0 +1,30 @@
+baseurl = "https://mistry.io/"
+languageCode = "en-us"
+title = "Nicholas Mistry"
+theme = "liquorice"
+# googleAnalytics = "UA-81618072-1"
+
+[params]
+    author = "Nick"
+    gaCode = "UA-81618072-1"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "LinkedIn"
+    identifier = "linkedin"
+    url = "https://linkedin.com/in/nicholasmistry"
+
+[[menu.main]]
+    name = "GitHub"
+    identifier = "github"
+    url = "https://github.com/nmistry"
+
+[[menu.main]]
+    name = "Twitter"
+    identifier = "twitter"
+    url = "https://twitter.com/nicholasmistry"
+
