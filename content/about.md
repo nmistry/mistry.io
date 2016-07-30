@@ -1,7 +1,8 @@
 +++
 date = "2016-07-29T15:38:09-05:00"
 title = "about me"
-type = "about"
+menu = "main"
+weight = 1
 +++
 
 Find out a bit more about me here:

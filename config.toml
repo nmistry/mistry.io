@@ -1,30 +1,55 @@
 baseurl = "https://mistry.io/"
-languageCode = "en-us"
+delanguageCode = "en-us"
 title = "Nicholas Mistry"
-theme = "liquorice"
-# googleAnalytics = "UA-81618072-1"
+theme = "hugo-steam-theme"
+
+#disqusShortname = "spf13"
+#paginate = 10
+
+#PygmentsCodeFences = true
+# 
 
 [params]
+    title = "Nicholas Mistry"
+    subtitle = "something clever here"
+    copyright = "All rights Reserved."
+    googleAnalytics = "UA-81618072-1"
+
+    # You can choose between green, orange, red and blue.
+    themeColor = "blue"
+
     author = "Nick"
     gaCode = "UA-81618072-1"
 
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/about/"
+    # To provide some metadata for search engines and the about section in the footer
+    # feel free to add a few information about you and your website.
+    name = "Nicholas Mistry"
+    bio = "Something about me"
+    description = "Your description of the blog"
+    location = "San Antonio, TX"
+    twitter = "nicholasmistry"
+    github = "nmistry"
 
+#[[menu.main]]
+#    name = "About"
+#    identifier = "about"
+#    url = "/about/"
+#
 [[menu.main]]
     name = "LinkedIn"
     identifier = "linkedin"
     url = "https://linkedin.com/in/nicholasmistry"
+    weight = 3
 
 [[menu.main]]
     name = "GitHub"
     identifier = "github"
     url = "https://github.com/nmistry"
+    weight = 2
 
 [[menu.main]]
     name = "Twitter"
     identifier = "twitter"
     url = "https://twitter.com/nicholasmistry"
+    weight = 4
 
