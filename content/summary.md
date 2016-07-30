@@ -1,7 +1,6 @@
 +++
 date = "2016-07-29T15:18:48-05:00"
 title = "Experience Summary"
-type = "about"
 +++
 
 Working in diverse fields including space exploration, medical technology, speech recognition, and cloud computing, I enjoy exploring the leading edge of technology and delving into its intricacies. As fulfilling as the this pursuit has been, I have also found developing customer relationships is equally satisfying. Creating solutions to difficult problems and cultivating customers are some of the most gratifying elements of my work.  The more challenging the problem, the more rewarding the effort.
@@ -18,7 +17,7 @@ Some of my key career accomplishments include:
 4. Contributed to the very first production-ready public cloud OpenStack deployment.
 5. Seamlessly migrated 20,000+ hosts (or approximately 250,000 VMs) worth of cloud servers customers to new hosts due to a Xen Server security vulnerability at Rackspace. Developed automation tools and procedures to reduce the total effort by 75% while ensuring a failure rate of less than 0.05%.
 
-The following is a brief synopsis of my work experience. A full CV is available upon request.
+The following is a brief synopsis of my work experience:
 
 - Chief Technical Officer - Platform Lead & Chief Customer Success Officer, Catalyze, Inc.
 - Architect - Project Whiplash, Innovation Team, Rackspace, Inc.
