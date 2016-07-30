@@ -22,7 +22,7 @@ The following is a brief synopsis of my work experience:
 - Chief Technical Officer - Platform Lead & Chief Customer Success Officer, Catalyze, Inc.
 - Architect - Project Whiplash, Innovation Team, Rackspace, Inc.
 - Tech-Lead, Cloud Compute Operations, Rackspace, Inc.
-Sr. Software Engineer, Innovation Group, Lernout & Hauspie Speech Products
+- Sr. Software Engineer, Innovation Group, Lernout & Hauspie Speech Products
 - Sr. UNIX Systems Engineer, Lernout & Hauspie Speech Products
 - Computer Systems Manager, Central Engineering, Harvard / Smithsonian Astrophysical Observatory 
 - Software Engineer, Mission Support Team, NASA’s Chandra X-Ray Observatory,  Harvard / Smithsonian Astrophysical Observatory
